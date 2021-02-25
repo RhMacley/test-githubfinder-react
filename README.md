@@ -1,12 +1,14 @@
 # GitHub API User Finder
-## Alguns dos recursos utilizados
+## Aplicação feita em react para procura de perfis utilizando a API do github
+----
+### Alguns dos recursos utilizados
 ----
 - ReactJs
 - React Bootstrap
 - Axios
 - React Icons
 
-Aplicação feita em react para procura de perfis utilizando a API do github
+
 
 ## Instalação
 
