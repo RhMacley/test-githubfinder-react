@@ -1,5 +1,5 @@
 # GitHub API User Finder
-##H2 Alguns dos recursos utilizados
+## Alguns dos recursos utilizados
 ----
 - ReactJs
 - React Bootstrap
